@@ -1,0 +1,13 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\MSI\\esp\\v5.3\\esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ],
+    "idf.portWin": "COM8",
+    "idf.toolsPathWin": "C:\\Users\\MSI\\.espressif",
+    "files.associations": {
+        "freertos.h": "c"
+    },
+    "idf.flashType": "UART"
+}
